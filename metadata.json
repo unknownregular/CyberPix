@@ -1,5 +1,5 @@
 {
-  "name": "CyberPix #1",
+  "name": "Cyber Builder #1",
   "symbol": "CBLD",
   "description": "A 1/1 pixel-art cyber engineer with a determined expression.",
   "image": "https://raw.githubusercontent.com/unknownregular/CyberPix/refs/heads/main/cyberpix.jpeg",
@@ -22,3 +22,4 @@
     "category": "image"
   }
 }
+
